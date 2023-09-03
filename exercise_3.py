@@ -24,7 +24,6 @@ elif cabinClass == "C":
 else:
     print("Invalid cabin class")
 
-
 # Task 3
 
 gender = input("What is your gender?")
